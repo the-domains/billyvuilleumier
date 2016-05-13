@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-13T20:18:06.133Z'
+datePublished: '2016-05-13T20:18:08.608Z'
 sourcePath: _posts/2016-04-16-high-velocity-aerial-filming.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/162088181'
@@ -20,7 +20,7 @@ author:
   - name: Peter Degerfeldt Blue Sky Aerial
     url: 'http://vimeo.com/user416634'
     avatar: {}
-dateModified: '2016-05-13T20:18:02.098Z'
+dateModified: '2016-05-13T20:18:06.895Z'
 title: High Velocity Aerial Filming
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/162088181'
