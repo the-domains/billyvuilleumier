@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-13T20:18:07.167Z'
+datePublished: '2016-05-13T20:18:08.906Z'
 sourcePath: _posts/2016-04-16-hyperloop-wants-to-connect-these-major-european-cities-with.md
 inFeed: true
 isBasedOnUrl: 'http://www.wallpaper.com/lifestyle/hyperloop-wants-to-connect-these-major-european-cities-with-high-speed-trains'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-05-13T20:18:03.978Z'
+dateModified: '2016-05-13T20:18:06.948Z'
 title: Hyperloop wants to connect these major European cities with high-speed trains.
 app_links: []
 publisher:
